@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/baseline_catching_pokemon_24"
+        android:title="About" />
+    <item
+        android:id="@+id/base_stats"
+        android:icon="@drawable/baseline_catching_pokemon_24"
+        android:title="Base Stats" />
+    <item
+        android:id="@+id/moves"
+        android:icon="@drawable/baseline_catching_pokemon_24"
+        android:title="Moves" />
+    <item
+        android:id="@+id/sprites"
+        android:icon="@drawable/baseline_catching_pokemon_24"
+        android:title="Sprites" />
+
+</menu>
